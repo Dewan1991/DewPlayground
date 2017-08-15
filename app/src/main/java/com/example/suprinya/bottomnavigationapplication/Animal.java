@@ -6,6 +6,6 @@ package com.example.suprinya.bottomnavigationapplication;
 
 interface Animal {
     public void eat();
-    public void travel();
     public void walk();
+    public void attack();
 }
